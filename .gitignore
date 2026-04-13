@@ -1,5 +1,5 @@
 *.csv
-idea/
+.idea/
 __pycache__/
 *.pyc
-pytest_cache/
+.pytest_cache/
