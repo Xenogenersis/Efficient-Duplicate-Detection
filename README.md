@@ -64,7 +64,7 @@ Die Datensätze enthalten typische Probleme aus realen Produktdaten:
 
 ---
 
-## ⚙️ Methodischer Ansatz (allgemein)
+## ⚙️ Methodischer Ansatz
 
 Zur Erkennung von Duplikaten werden typische Verfahren aus dem Bereich **Text Similarity und Record Linkage** eingesetzt, darunter:
 
